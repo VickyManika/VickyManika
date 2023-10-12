@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VickyManika
 - 🔭 I’m currently doing masters in 'Αrtificial Ιntelligence and Visual Computing' at University of West Attica 
 - 🌱 I’m currently looking for an internship in Athens in order to practice the methods I learned during my master's degree and to complete the postgraduate course.
-- 👯 I'm looking to work with companies that deal in data analysis and data visualization or in software engineering.
+- 👯 I'm looking to work with companies that deal in data science, data visualization or in software engineering.
 - 📫 How to reach me: manikav46@gmail.com
 - ⚡ Fun fact: I am an overthinker 🤷‍♀️
 <!---
